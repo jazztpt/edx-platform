@@ -19,6 +19,10 @@ install edX:
 .. _edX Full Stack: https://github.com/edx/configuration/wiki/edX-Full-Stack
 .. _edX Ubuntu 12.04 64-bit Installation: https://github.com/edx/configuration/wiki/edX-Ubuntu-12.04-64-bit-Installation
 
+This will get the code from edx/edx-platform running on your machine.  To use Appsembler code, follow these instructions for using an `edx fork`_.
+
+.. _these instructions: https://github.com/edx/configuration/wiki/edX-Managing-the-Full-Stack#using-an-edx-platform-fork
+
 
 License
 -------
